@@ -1,0 +1,9 @@
+C:\Users\kkunal\Desktop\Assingment\Assingment-17-7-20\ApteanEdgeBank\UserInterface\bin\Debug\UserInterface.exe.config
+C:\Users\kkunal\Desktop\Assingment\Assingment-17-7-20\ApteanEdgeBank\UserInterface\bin\Debug\UserInterface.exe
+C:\Users\kkunal\Desktop\Assingment\Assingment-17-7-20\ApteanEdgeBank\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\kkunal\Desktop\Assingment\Assingment-17-7-20\ApteanEdgeBank\UserInterface\obj\Debug\UserInterface.csprojAssemblyReference.cache
+C:\Users\kkunal\Desktop\Assingment\Assingment-17-7-20\ApteanEdgeBank\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\kkunal\Desktop\Assingment\Assingment-17-7-20\ApteanEdgeBank\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+C:\Users\kkunal\Desktop\Assingment\Assingment-17-7-20\ApteanEdgeBank\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\kkunal\Desktop\Assingment\Assingment-17-7-20\ApteanEdgeBank\UserInterface\obj\Debug\UserInterface.exe
+C:\Users\kkunal\Desktop\Assingment\Assingment-17-7-20\ApteanEdgeBank\UserInterface\obj\Debug\UserInterface.pdb
